@@ -1,1 +1,3 @@
-./gradlew check
+language: java
+jdk:
+  - oraclejdk8
